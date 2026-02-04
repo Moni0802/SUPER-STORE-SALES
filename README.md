@@ -1,7 +1,7 @@
 # SUPER-STORE-SALES
 
 ## Power Bi:
-## https://app.powerbi.com/view?r=eyJrIjoiYTkyNTRjMGMtY2ViYi00MzYwLWI0NDEtNzJhMjM5OTUwYzA0IiwidCI6IjUzMjlmZWMyLWI4NzItNGEwOS05OTc4LWFlZTFhOTBlMGJmOCJ9
+## [https://app.powerbi.com/view?r=eyJrIjoiYTkyNTRjMGMtY2ViYi00MzYwLWI0NDEtNzJhMjM5OTUwYzA0IiwidCI6IjUzMjlmZWMyLWI4NzItNGEwOS05OTc4LWFlZTFhOTBlMGJmOCJ9](https://app.powerbi.com/links/yuJysu0p8s?ctid=5329fec2-b872-4a09-9978-aee1a90e0bf8&pbi_source=linkShare)
 
 ## INSIGHTS AND SUGGESTIONS:
 INSIGHTS 
